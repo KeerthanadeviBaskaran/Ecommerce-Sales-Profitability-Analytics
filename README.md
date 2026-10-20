@@ -1,5 +1,7 @@
 # E-commerce Sales & Profitability Analytics Dashboard
 
+<img width="589" height="331" alt="ECommerce_Dashboard" src="https://github.com/user-attachments/assets/2cd65695-5a4e-445f-8702-6127e886e387" />
+
 ## 📊 Project Overview
 
 The **E-commerce Sales & Profitability Analytics Dashboard** is an interactive Business Intelligence project developed using Microsoft Power BI. It analyzes sales, profit, order quantity, order volume, and profitability across product categories and geographical regions.
@@ -147,9 +149,6 @@ Based on the observed dashboard values:
 - **Technology:** Approximately $840K in sales and $146K in profit, making it the strongest category in both sales and total profit among the three categories.
 - **Office Supplies:** Approximately $730K in sales and $126K in profit, with an estimated profit margin of 17.3%.
 - **Furniture:** Approximately $750K in sales and $19K in profit, with an estimated profit margin of 2.5%.
-
-<img width="589" height="331" alt="ECommerce_Dashboard" src="https://github.com/user-attachments/assets/2cd65695-5a4e-445f-8702-6127e886e387" />
-
 
 ### Recommendations
 
