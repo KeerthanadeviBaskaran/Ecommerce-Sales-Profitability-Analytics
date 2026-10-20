@@ -148,6 +148,9 @@ Based on the observed dashboard values:
 - **Office Supplies:** Approximately $730K in sales and $126K in profit, with an estimated profit margin of 17.3%.
 - **Furniture:** Approximately $750K in sales and $19K in profit, with an estimated profit margin of 2.5%.
 
+<img width="589" height="331" alt="ECommerce_Dashboard" src="https://github.com/user-attachments/assets/2cd65695-5a4e-445f-8702-6127e886e387" />
+
+
 ### Recommendations
 
 1. Investigate Furniture's low profit margin by examining product-level performance, discounting, pricing, and costs.
